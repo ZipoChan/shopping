@@ -7,7 +7,7 @@ package handler
 //	"time"
 //
 //	"github.com/micro/go-micro/v2/client"
-//	proto "github.com/wxmsummer/shopping/payment/proto/payment"
+//	proto "github.com/ZipoChan/shopping/payment/proto/payment"
 //)
 //
 //func WebCall(w http.ResponseWriter, r *http.Request) {

@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/micro/go-micro/v2/client"
-	proto "github.com/wxmsummer/shopping/user/proto/user"
+	proto "github.com/ZipoChan/shopping/user/proto/user"
 )
 
 func Register(w http.ResponseWriter, r *http.Request) {

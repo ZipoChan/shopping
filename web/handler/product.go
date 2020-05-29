@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/micro/go-micro/client"
-	proto "github.com/wxmsummer/shopping/product/proto/product"
+	proto "github.com/ZipoChan/shopping/product/proto/product"
 )
 
 func SearchByID(w http.ResponseWriter, r *http.Request) {

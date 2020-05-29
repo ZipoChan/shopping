@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/micro/go-micro/client"
-	proto "github.com/wxmsummer/shopping/comment/proto/comment"
+	proto "github.com/ZipoChan/shopping/comment/proto/comment"
 )
 
 func GetComments(w http.ResponseWriter, r *http.Request) {

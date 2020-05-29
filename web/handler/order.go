@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/micro/go-micro/client"
-	proto "github.com/wxmsummer/shopping/order/proto/order"
+	proto "github.com/ZipoChan/shopping/order/proto/order"
 )
 
 func CreateOrder(w http.ResponseWriter, r *http.Request) {
